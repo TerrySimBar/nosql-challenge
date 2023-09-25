@@ -1,5 +1,5 @@
 # nosql-challenge 
-A project that uses PyMongo to create and make changes to a NoSql database as well as make queries for insight analyses. 
+A project that uses PyMongo to create and make changes to a NoSql database as well as make queries for insightful analyses. 
 <br>
 <br>
 <br>
